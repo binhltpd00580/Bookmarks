@@ -7,4 +7,5 @@
 [Bookmark for Dev 1](https://github.com/IonicaBizau/gridly)  
 [Unslider - Slider for Website](http://unslider.com/)  
 [Simple CURD Nodejs & Mysql](http://teknosains.com/i/simple-crud-nodejs-mysql)  
+[Jquery Cards - A repository of over 1000 quality jQuery plugins](http://jquerycards.com/)
 
