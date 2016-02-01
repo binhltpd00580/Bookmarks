@@ -10,4 +10,5 @@
 [Jquery Cards](http://jquerycards.com/)   - A repository of over 1000 quality jQuery plugins  
 [CopyPasteCharacter](http://www.copypastecharacter.com/all-characters)  
 [wheelnav.js](http://wheelnavjs.softwaretailoring.net/index.html) - brings spinning into your web pages  
+[HOW TO: Pure CSS masonry layouts](https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.yjl7jr1o7)  
 
