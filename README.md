@@ -15,4 +15,5 @@
 [Bricks.js](http://callmecavs.com/bricks.js/) - A blazing fast masonry layout generator for fixed width elements  
 [How to make Ripple Effect Material Design](http://webdesign.tutsplus.com/tutorials/recreating-the-touch-ripple-effect-as-seen-on-google-design--cms-21655)  
 [Lấy tọa độ Góc quay Css](https://css-tricks.com/snippets/jquery/get-x-y-mouse-coordinates/) - Get X, Y Coordinates of Mouse Within Box  
+[20 Useful jQuery Sliders](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)  
 
