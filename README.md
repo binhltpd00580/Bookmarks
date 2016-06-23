@@ -18,4 +18,7 @@
 [20 Useful jQuery Sliders](http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960)  
 [Bricklayer](https://github.com/ademilter/bricklayer) - Lightweight & independent cascading grid layout library. Inspired by and a lighter alternative to Masonry.  
 [Spectre.css](http://picturepan2.github.io/spectre/) -  is a lightweight, responsive and modern CSS framework for faster and extensible development.  
+[Animate On Scroll Library](http://michalsnik.github.io/aos/)  
+[RELLAX - Parallax Library](https://dixonandmoe.com/rellax/)  
+[Seenjs - Render 3D SVG or HTML5 Canvas](http://seenjs.io/)  
 
