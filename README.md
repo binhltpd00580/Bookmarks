@@ -21,4 +21,5 @@
 [Animate On Scroll Library](http://michalsnik.github.io/aos/)  
 [RELLAX - Parallax Library](https://dixonandmoe.com/rellax/)  
 [Seenjs - Render 3D SVG or HTML5 Canvas](http://seenjs.io/)  
+[particles.js - A lightweight JavaScript library for creating particles.](https://github.com/VincentGarreau/particles.js/)  
 
