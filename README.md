@@ -22,4 +22,6 @@
 [RELLAX - Parallax Library](https://dixonandmoe.com/rellax/)  
 [Seenjs - Render 3D SVG or HTML5 Canvas](http://seenjs.io/)  
 [particles.js - A lightweight JavaScript library for creating particles.](https://github.com/VincentGarreau/particles.js/)  
+[Hướng dẫn cài đặt Socket.IO trên ExpressJS 4.](http://gulivert.ch/create-a-chat-app-with-nodejs-express-and-socket-io/)  
+
 
