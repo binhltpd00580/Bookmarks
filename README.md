@@ -32,5 +32,6 @@
 [scrollMonitor](https://github.com/stutrek/scrollMonitor)  
 [VOYAGERS cms](https://the-control-group.github.io/voyager/index.html)  
 [Backup Atom](https://atom.io/packages/config-import-export)  
+[Laravel Backpack](https://laravel-news.com/laravel-backpack)  
 
 
