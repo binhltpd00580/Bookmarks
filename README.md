@@ -33,5 +33,6 @@
 [VOYAGERS cms](https://the-control-group.github.io/voyager/index.html)  
 [Backup Atom](https://atom.io/packages/config-import-export)  
 [Laravel Backpack](https://laravel-news.com/laravel-backpack)  
+[30 đoạn biểu thức chính quy mà lập trình viên web nên biết](https://kipalog.com/posts/30-doan-bieu-thuc-chinh-quy-ma-lap-trinh-vien-web-nen-biet)  
 
 
