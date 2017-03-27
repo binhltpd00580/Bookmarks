@@ -36,5 +36,6 @@
 [30 đoạn biểu thức chính quy mà lập trình viên web nên biết](https://kipalog.com/posts/30-doan-bieu-thuc-chinh-quy-ma-lap-trinh-vien-web-nen-biet)  
 [CSS Framework](https://getuikit.com)  
 [The end of the clearfix hack?](https://www.rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/)  
+[Tự Học Laravel 5, Học Lập Trình Laravel Framework Cơ Bản Miễn Phí](https://vietpro.net.vn/lap-trinh-laravel)  
 
 
